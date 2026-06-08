@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+i2
+
+# Generated reports
+i2_*.md
+*.md.tmp
+
+# Object files
+*.o
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
